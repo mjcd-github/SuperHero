@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+}
+
+.container__img{
+    display: flex;
+    justify-content: center;
+}
+.image{
+    width: 400px;
+}
+
+.row{
+    width: 100%;
+   
+}
+.info-title__container{
+    display: flex;
+    justify-content: center;
+   
+}
+.info__container{
+    display: flex;
+    width: 90%;
+    height: auto;
+    border: 1px solid #ccc;
+    
+}
+.info__left{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    
+    
+}
+
+.info{
+    margin-left: 10px;
+}
+hr {
+    width: 95%;
+   margin: auto;
+}
+
+#chartContainer{
+    width: 100%;
+    height: auto;
+}
+
+.information__image--size{
+    width: 300px;
+    height: auto;
+    margin: 0;
+}
